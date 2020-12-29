@@ -31,6 +31,8 @@ The dataset files for testing next best view systems are placed under the *Test_
 
 In addition, the label of the object being seen is provided in the *label.txt* file. These labels can be used in object classification tasks.
 
+The contents of the *Training_Files* directory are RGB training images of the 10 object classes that are present in the test set. They can be used for training classifiers if the active vision system needs to classify the objects in the test images too.
+
 <!-- 
 
 # Citation
