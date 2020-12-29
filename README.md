@@ -28,7 +28,6 @@ The dataset files for testing next best view systems are placed under the *Test_
 |5|Right|
 |Front_Down|The frontal view with the same height as the object|
 |Front_Up|An alternate frontal view, with a slightly higher height than the other frontal view|
-|||
 
 In addition, the label of the object being seen is provided in the *label.txt* file. These labels can be used in object classification tasks.
 
