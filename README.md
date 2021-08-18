@@ -49,7 +49,7 @@ If you are using this dataset, please cite our paper, published in Springer Appl
 ```
 
 # Developers
-[Pourya Hoseini](https://github.com/pouryahoseini) and Mircea Nicolescu.
+[Pourya Hoseini](https://github.com/pouryahoseini) and [Mircea Nicolescu](https://www.cse.unr.edu/~mircea/).
 
 # Contact
 You may contact us at the following email addresses:
