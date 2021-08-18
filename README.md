@@ -33,35 +33,20 @@ In addition, the label of the object being seen is provided in the *label.txt* f
 
 The contents of the *Training_Files* directory are RGB training images of the 10 object classes that are present in the test set. They can be used for training classifiers if the active vision system needs to classify the objects in the test images too.
 
-<!-- 
-
 # Citation
-If you are using this dataset, please cite our papers below, in which this dataset is introduced:
+If you are using this dataset, please cite our paper, published in Springer Applied Intelligence ([pdf](./docs/AppliedIntelligence_paper.pdf), [publisher link](https://doi.org/10.1007/s10489-021-02657-z)), in which this dataset is introduced:
 
 ```
-@article{hoseini2013,
+@article{hoseini2021one,
   title={A one-shot next best view system for active object recognition},
-  author={Hoseini, Pourya and Nicolescu, Mircea and Nicolescu, Monica},
+  author={Hoseini, Pourya and Paul, Shuvo Kumar and Nicolescu, Mircea and Nicolescu, Monica},
   journal={Applied Intelligence},
-  volume={},
-  number={},
-  pages={--},
-  year={},
-  publisher={Springer}
-}
-```
-
-```
-@inproceedings{hoseini2021surface,
-  title={A surface and appearance-based next best view system for active object recognition},
-  author={Hoseini, Pourya and Paul, Shuvo K. and Nicolescu, Mircea and Nicolescu, Monica},
-  booktitle={16th International Conference on Computer Vision Theory and Applications (VISAPP)},
+  pages={1--20},
   year={2021},
-  pages={--}
+  publisher={Springer},
+  doi={10.1007/s10489-021-02657-z}
 }
 ```
-
--->
 
 # Developers
 [Pourya Hoseini](https://github.com/pouryahoseini) and Mircea Nicolescu.
